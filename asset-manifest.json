@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/My-Songs/static/css/main.8ad2fd23.css",
+    "main.js": "/My-Songs/static/js/main.c9b7f525.js",
+    "static/js/488.bad9c1a8.chunk.js": "/My-Songs/static/js/488.bad9c1a8.chunk.js",
+    "static/media/Echos.wav": "/My-Songs/static/media/Echos.7e230d522e3ee0a22fd8.wav",
+    "static/media/Ticking.wav": "/My-Songs/static/media/Ticking.4f90aaab557d1377a1cb.wav",
+    "static/media/Echos.mp4": "/My-Songs/static/media/Echos.03cf2bc70e429aa5d609.mp4",
+    "static/media/Climbing.mp3": "/My-Songs/static/media/Climbing.e16a0c80c9c8197b3078.mp3",
+    "static/media/Woods.mp4": "/My-Songs/static/media/Woods.56c7084a2e41ec95d3fe.mp4",
+    "static/media/Woods.mp3": "/My-Songs/static/media/Woods.39ebfef066f53503f7c6.mp3",
+    "static/media/Choir.mp3": "/My-Songs/static/media/Choir.25b96de296673359f718.mp3",
+    "index.html": "/My-Songs/index.html",
+    "main.8ad2fd23.css.map": "/My-Songs/static/css/main.8ad2fd23.css.map",
+    "main.c9b7f525.js.map": "/My-Songs/static/js/main.c9b7f525.js.map",
+    "488.bad9c1a8.chunk.js.map": "/My-Songs/static/js/488.bad9c1a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad2fd23.css",
+    "static/js/main.c9b7f525.js"
+  ]
+}
