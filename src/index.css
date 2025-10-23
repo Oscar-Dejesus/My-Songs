@@ -1,0 +1,98 @@
+
+:root{
+
+    /*--background: linear-gradient(to bottom, #00bbff, #008a88);*/
+    --background: #03045E;
+    --text-Color: #ffffff;
+}
+
+body:onMouseEnte{
+    background: var(--background);
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: var(--background);
+    min-height: 100vh;
+    transition: background 2s ease-out;
+    color: var(--text-Color);
+}
+
+
+.Nav{
+    display:flex;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    text-align: center;
+    text-wrap:unset;
+    justify-content: center;
+
+    background-color: rgba(0, 180, 216, 0.8);
+    
+    
+}
+
+
+.Nav-text:hover{
+    text-decoration: underline;
+}
+.audio{
+    display:flex;
+    flex-wrap: wrap;
+    margin-top: 100px;
+    margin-right:0;
+    justify-content: center;
+    
+}
+
+.Songs{
+    width:300px;
+    height:200px;
+    text-align: center;
+    margin:0;
+    padding:0;
+    background-color: rgb(0, 119, 182);
+    border-radius: 80px;
+    transition: border-radius .2s ease-out;
+    margin: 50px;
+    
+}
+
+.Songs:hover{
+    border-radius: 50px;
+}
+
+.title{
+
+   
+    text-align:center;
+}
+.Info{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+.Info-text{
+    width:40vw;
+    color:rgb(251, 214, 127);
+}
+
+
+Video{
+    width:30vw;
+    border:5px solid;
+    margin: 50px;
+    border-color: cornflowerblue;
+}
+.Video-Holder{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+}
+a{
+    color: rgb(75, 246, 212);
+}
