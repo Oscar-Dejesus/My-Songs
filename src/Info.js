@@ -3,7 +3,7 @@
 function Info(){
     return(
         <div className="Info">
-            <h1 className="Info-text">These are songs I have made over the Years Started back when I was 16 Years Old still making them today</h1>
+            <h1 className="Info-text">These are songs I’ve created over the years, starting when I was just 16 years old. I’m still making music today, continuing to create, experiment, and grow as an artist.</h1>
         </div>
     );
 }
